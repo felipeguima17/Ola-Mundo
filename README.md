@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro repositório usando Git e GitHub
+# Olá, Mundo!
+ Primeiro repositório do curso de Git e GitHub.
+
+ Repositório criado no dia 06/11/2022.
